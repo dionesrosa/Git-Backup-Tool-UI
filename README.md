@@ -1,6 +1,6 @@
-# GitBackupTool
+# Git Backup Tool Ui
 
-GitBackupTool é um script simples em batch para facilitar o backup e a restauração da branch **main** do seu repositório Git. Com ele, você consegue criar backups com timestamp, subir para o remoto e também restaurar de forma rápida e prática.
+Git Backup Tool Ui é um script simples em batch para facilitar o backup e a restauração da branch **main** do seu repositório Git. Com ele, você consegue criar backups com timestamp, subir para o remoto e também restaurar de forma rápida e prática.
 
 ### Funcionalidades
 - Criar backup da branch main com data/hora na branch nova
