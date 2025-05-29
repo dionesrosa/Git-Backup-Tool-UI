@@ -29,7 +29,7 @@
    - Abra o PowerShell na pasta do seu repositório Git.
    - Execute o script:
      ```powershell
-     .\Git-Backup-Tool-Ui.ps1
+     .\Git-Backup-Tool-UI.ps1
      ```
    - Siga as instruções do menu interativo.
 

@@ -6,7 +6,7 @@ $OutputEncoding = [System.Text.UTF8Encoding]::new($true)
 $width = 120
 
 # Define o título da janela do terminal
-$host.UI.RawUI.WindowTitle = "Git Backup Tool"
+$host.UI.RawUI.WindowTitle = "Git Backup Tool UI"
 
 # Função para centralizar texto na tela
 function Center-Text {
@@ -60,7 +60,7 @@ while ($true) {
 
     # Exibe o menu principal centralizado
     Center-Text "==============================="
-    Center-Text "GIT BACKUP TOOL"
+    Center-Text "GIT BACKUP TOOL UI"
     Center-Text "==============================="
     Write-Host ""
     Center-Text "Diretório atual: $(Get-Location)"
