@@ -1,5 +1,9 @@
 # Git Backup Tool UI
 
+<p align="center">
+  <img src="images/cover.png" alt="Capa do Git Backup Tool UI" style="max-width: 100%; height: auto;">
+</p>
+
 **Git Backup Tool UI** é um utilitário interativo em PowerShell para facilitar o backup e a restauração da branch **main** do seu repositório Git. Ele oferece uma interface de menu no terminal, tornando o processo de backup e restauração mais seguro, rápido e prático, mesmo para quem não domina comandos Git avançados.
 
 ## Funcionalidades
